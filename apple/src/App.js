@@ -22,15 +22,6 @@ function App() {
         <Route path="/store" element={<Store />} />
         <Route path="/support" element={<Support />} />
         <Route path="/support/createrequest" element={<CreateRequest />} />
-        {/*
-        <Route path="/buyipadpro" element={<IpadPro />} />
-        <Route path="/buyipadmini" element={<IpadMini />} />
-        <Route path="/buyipadair4" element={<IpadAir4 />} />
-        <Route path="/buyipadair" element={<IpadAir />} />
-        <Route path="/buyipadpro6" element={<IpadPro6 />} />
-        <Route path="/buyipad10gen" element={<Ipad10Gen />} />
-        <Route path="/buyipad9gen" element={<Ipad9Gen />} />
-  */}
         <Route path="*" element={<WrongPage />} />
       </Routes>
       <Footer />
