@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap');
+
+.mainNav {
+    background-color: #606060;
+    padding: 20px;
+}
+
+.links {
+    color: #c0c0c0;
+    text-decoration: none;
+    margin-inline: 10px;
+    font-family: 'Ubuntu' , sans-serif;
+}
+
+.mainNav .links.active {
+    font-weight: bolder;
+    color: #404040;
+}
+
+.links_apple {
+    color: #c0c0c0;
+    text-decoration: none;
+    margin-inline: 10px;
+    float: left;
+}
+
+
+.mainNav .links_apple.active {
+    font-weight: bolder;
+    color: #404040;
+}

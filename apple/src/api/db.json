@@ -1,0 +1,147 @@
+{
+  "support": [],
+  "products": [
+    {
+      "id": 1,
+      "content": "M1 çipli 13 inç MacBook Air",
+      "price": 27999,
+      "img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/macbook-air-space-gray-select-201810?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1664472289661"
+    },
+    {
+      "id": 2,
+      "content": "M2 çipli 13 inç ve 15 inç MacBook Air",
+      "price": 35499,
+      "img": "https://www.apple.com/v/macbook-air-13-and-15-m2/a/images/overview/hero/hero_static__6sbma6bp2tu6_large.jpg"
+    },
+    {
+      "id": 3,
+      "content": " Iphone 14 Pro Max",
+      "price": 58999,
+      "img": "https://st-troy.mncdn.com/mnresize/1500/1500/Content/media/ProductImg/original/mq9t3tua-apple-iphone-14-pro-max-128gb-derin-mor-mq9t3tua-637987440024200148.jpg"
+    },
+    {
+      "id": 4,
+      "content": "iPhone 13 mini ve iPhone 13",
+      "price": 34599,
+      "img": "https://www.apple.com/newsroom/images/product/iphone/geo/Apple_iphone13_hero_geo_09142021_inline.jpg.small_2x.jpg"
+    },
+    {
+      "id": 5,
+      "content": "iPad Pro",
+      "price": 25499,
+      "img": "https://m.media-amazon.com/images/I/81gC7frRJyL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 6,
+      "content": "iPad Air",
+      "price": 18999,
+      "img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/ipad-air-select-wifi-blue-202203?wid=940&hei=1112&fmt=png-alpha&.v=1645065732688"
+    },
+    {
+      "id": 7,
+      "content": "iPad (10. Nesil)",
+      "price": 14299,
+      "img": "https://cdn.akakce.com/z/apple/ipad-10-nesil-wi-fi-pembe-mpq33tu-a-64-gb-10-9.jpg"
+    },
+    {
+      "id": 8,
+      "content": "Apple Watch Ultra",
+      "price": 36499,
+      "img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MQDY3ref_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-alpine-ultra_VW_34FR_WF_CO_GEO_TR?wid=750&hei=712&trim=1%2C0&fmt=p-jpg&qlt=95&.v=1683224241054"
+    },
+    {
+      "id": 9,
+      "content": "iPad Air 4",
+      "price": 12499,
+      "img": "https://cdn.cimri.io/image/1000x1000/appleipadairgbinwifimygtuatabletpcyeil_292592309.jpg"
+    }
+  ],
+  "ipad": [
+    {
+      "id": 10,
+      "content": "iPad Pro",
+      "price": 25499,
+      "img": "https://m.media-amazon.com/images/I/81gC7frRJyL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 11,
+      "content": "iPad Air",
+      "price": 18999,
+      "img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/ipad-air-select-wifi-blue-202203?wid=940&hei=1112&fmt=png-alpha&.v=1645065732688"
+    },
+    {
+      "id": 12,
+      "content": "iPad (10. Nesil)",
+      "price": 14299,
+      "img": "https://cdn.akakce.com/z/apple/ipad-10-nesil-wi-fi-pembe-mpq33tu-a-64-gb-10-9.jpg"
+    },
+    {
+      "id": 13,
+      "content": "iPad Mini",
+      "price": 16299,
+      "img": "https://st-troy.mncdn.com/mnresize/1500/1500/Content/media/ProductImg/original/mlwl3tua-apple-ipad-mini-wi-fi-64gb-pembe-637686220361781007.jpg"
+    },
+    {
+      "id": 14,
+      "content": "iPad (9. Nesil)",
+      "price": 10499,
+      "img": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/129951-1_large.jpg"
+    },
+    {
+      "id": 16,
+      "content": "iPad Air 4",
+      "price": 12499,
+      "img": "https://cdn.cimri.io/image/1000x1000/appleipadairgbinwifimygtuatabletpcyeil_292592309.jpg"
+    }
+  ],
+  "iphone": [
+    {
+      "id": 17,
+      "content": "Iphone 14 Pro Max",
+      "price": 58999,
+      "img": "https://st-troy.mncdn.com/mnresize/1500/1500/Content/media/ProductImg/original/mq9t3tua-apple-iphone-14-pro-max-128gb-derin-mor-mq9t3tua-637987440024200148.jpg"
+    },
+    {
+      "id": 18,
+      "content": "Iphone 14 Pro",
+      "price": 54999,
+      "img": "https://st-troy.mncdn.com/mnresize/1500/1500/Content/media/ProductImg/original/mq9t3tua-apple-iphone-14-pro-max-128gb-derin-mor-mq9t3tua-637987440024200148.jpg"
+    },
+    {
+      "id": 19,
+      "content": "iPhone 13",
+      "price": 37499,
+      "img": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/129743-1_large.jpg"
+    },
+    {
+      "id": 20,
+      "content": "Iphone 13 Mini",
+      "price": 34999,
+      "img": "https://st-troy.mncdn.com/mnresize/1500/1500/Content/media/ProductImg/original/mlke3tua-apple-iphone-13-mini-512gb-productred-637678520757928101.jpg"
+    },
+    {
+      "id": 21,
+      "content": "Iphone 12 Pro",
+      "price": 25959,
+      "img": "https://cdn.cimri.io/image/320x320/apple-iphone-12-pro-max-5g-512gb-6gb-ram-67-inc-12mp-akilli-cep-telefonu_309421628.jpg"
+    },
+    {
+      "id": 22,
+      "content": "Iphone 12 ",
+      "price": 21499,
+      "img": "https://ayb.akinoncdn.com/products/2022/04/25/144530/a5e99baf-82fc-4c35-8989-6a1871ba2c0c_size780x780_quality60_cropCenter.jpg"
+    },
+    {
+      "id": 23,
+      "content": "Iphone 11 Pro",
+      "price": 22499,
+      "img": "https://productimages.hepsiburada.net/s/337/375/110000015123535.jpg"
+    },
+    {
+      "id": 24,
+      "content": "Iphone 11",
+      "price": 18999,
+      "img": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/113155-1-1_large.jpg"
+    }
+  ]
+}

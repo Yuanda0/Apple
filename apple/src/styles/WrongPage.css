@@ -1,0 +1,39 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap');
+.wrongPage {
+    height: 130vh;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.items {
+    position: absolute;
+    top: 50vh;
+    left: 763px;
+}
+
+.mark>img {
+    height: 400px;
+    width: 600px;
+}
+
+.wrong {
+    background-color: #606060;
+    width: 100%;
+    
+}
+
+.items>button {
+    border: none;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: large;
+    margin-top: 20px;
+    border: 3px solid #C0C0C0;
+    border-radius: 10px;
+}
+
+.items>button:hover {
+    transform: scale(1.2);
+    transition: transform 300ms ease-in-out;
+}

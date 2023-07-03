@@ -1,0 +1,110 @@
+
+
+.supportDiv {
+    height: 130vh;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.homeMain {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+}
+
+
+.supportChoises { 
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    position: absolute;
+    top: 350px; 
+}
+
+
+.supportChoises div:hover {
+    opacity:0.6;
+    transition: opacity 0.5s ease-in-out;
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.multiChoises {
+    position: absolute;
+    top: 750px;
+
+    display: flex;
+    flex-direction: row;
+    gap: 200px;
+}
+
+.multiChoises div:hover {
+    transform: scale(1.1);
+    transition: transform 330ms ease-in-out;
+    cursor: pointer;
+}
+
+.password {
+    width: 300px;
+}
+
+.searchDiv {
+    position: absolute;
+    top: 120vh;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.searchDiv input {
+    outline: none;
+    border: 2px solid #606060;
+    border-radius: 10px;
+    width: 700px;
+    height: 50px;
+    position: absolute;
+    top: 1vh; 
+}
+
+.searchTitle {
+    position: absolute;
+    top: 110vh;
+
+}
+
+.searchDiv input:focus {
+    border: 3px solid aqua;
+    border-radius: 10px 10px 0 0;
+}
+
+.icon {
+    position: absolute;
+    top: 1.9vh;
+}
+
+.title {
+    position: absolute;
+    top: 10vh;
+}
+
+.navigateToCreateReq {
+    width: 150px;
+    padding: 10px;
+    border: none;
+    border: 2px solid #c0c0c0;
+    border-radius: 10px;
+}
+
+.navigateToCreateReq:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: transform 300ms ease-in-out;
+    box-shadow: 2px 2px 2px 2px rgba(55, 55, 55 ,1.2);
+    border: 10px;
+}

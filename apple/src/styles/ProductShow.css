@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Belanosima&display=swap');
+.mainDiv {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.cardDiv {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.card {
+    width: 350px;
+    border: none;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+.card p,h1 {
+    font-family: 'Belanosima', sans-serif;
+}
+
+.card:hover {
+    transform: scale(1.1);
+    border: none;
+    box-shadow: rgba(55, 55, 50, 0.3) 0px 30px 60px;
+    transition: transform 300ms ease-in-out;
+}
