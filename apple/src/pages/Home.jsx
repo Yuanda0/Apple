@@ -14,13 +14,10 @@ import MacStudio from '../img/macstudio.jpg';
 import Iphone from '../img/iphone14.jpg';
 import Loading from '../components/Loading';
 function Home(){
-    
     const [show, setShow] = useState(false);
-
-
-    const [count, setCount] = useState(0)
-
-    const [loading, setLoading] = useState(false)
+    const [count, setCount] = useState(0);
+    const [loading, setLoading] = useState(false);
+    
     useEffect(()=>{
         setLoading(true)
     },[])
@@ -29,9 +26,6 @@ function Home(){
       setShow(false);
       setCount(0);
     }
-
-    
-
   return (
     <div className='inclusiveHome'>
       {loading ? (
